@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9524bbf6-e2df-4b6e-bb48-028639e0b210" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/images/design.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/design.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="326" column="53" selection-start-line="326" selection-start-column="53" selection-end-line="326" selection-end-column="53" />
+            <state relative-caret-position="306">
+              <caret line="333" column="83" lean-forward="true" selection-start-line="333" selection-start-column="83" selection-end-line="333" selection-end-column="83" />
               <folding>
                 <element signature="e#3088#6433#0" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -30,8 +31,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="89" column="16" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
+            <state relative-caret-position="248">
+              <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -42,6 +43,9 @@
     <findStrings>
       <find>lock</find>
       <find>2018</find>
+      <find>hero-inner</find>
+      <find>automag</find>
+      <find>organic-shape-3</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -123,7 +127,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1146" extended-state="6" />
+    <frame x="1" y="23" width="1440" height="846" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -132,8 +136,8 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2369403" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0625" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32901555" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.083333336" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32901555" />
@@ -159,7 +163,7 @@
     <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="5" column="1057" selection-start-line="5" selection-start-column="1057" selection-end-line="5" selection-end-column="1057" />
+          <caret line="5" column="84059" selection-start-line="5" selection-start-column="84059" selection-end-line="5" selection-end-column="84059" />
           <folding>
             <element signature="e#61909#62109#2" expanded="true" />
             <element signature="e#62317#62466#2" expanded="true" />
@@ -175,15 +179,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="89" column="16" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
+        <state relative-caret-position="248">
+          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="326" column="53" selection-start-line="326" selection-start-column="53" selection-end-line="326" selection-end-column="53" />
+        <state relative-caret-position="306">
+          <caret line="333" column="83" lean-forward="true" selection-start-line="333" selection-start-column="83" selection-end-line="333" selection-end-column="83" />
           <folding>
             <element signature="e#3088#6433#0" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
